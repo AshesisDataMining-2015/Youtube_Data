@@ -7,11 +7,9 @@ The main questions this project is looking to answer is
 
 1. What is the most influential channel amongst the datasets?
 
-2.Do Collaborations necesarily lead to more subscribers?
+2. What is the most popular channel group in Youtube UK?
 
-3. Can we predict the next new subscibers with this data?
-
-4. Do some of these channel appeal to a particular gender amongst audience members?
+3. Do Collaborations necesarily lead to more subscribers?
 
 
 

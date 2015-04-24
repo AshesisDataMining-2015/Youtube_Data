@@ -1,0 +1,51 @@
+Id,Label,Eccentricity,Closeness centrality,Betweenness centrality,Modality Class,closnesscentrality,betweenesscentrality,Modularity Class
+2,Quirkology,0,,,,0,0,0
+13,SevenSuperGirls,0,,,,0,0,3
+19,The Slow Mo Guys,0,,,,0,0,6
+20,Simon\'s Cat,0,,,,0,0,7
+31,TheGamingLemon,0,,,,0,0,12
+34,Did You Know Gaming,0,,,,0,0,13
+46,Luxy Hair,0,,,,0,0,16
+50,Lisa Eldridge,0,,,,0,0,17
+24,KSI,2,,,,1.2,4.5,9
+36,MattHDGamer,2,,,,1.2,4.5,9
+26,ComedyShortsGamer,2,,,,1.6,0,9
+43,wroetoshaw,2,,,,1.6,0,9
+15,SORTED Food,4,,,,1.652173913,45.34428211,5
+44,Zoella,4,,,,1.695652174,42.62669553,15
+35,YOGSCAST Martyn,3,,,,1.727272727,18.5,10
+37,jackfrags,3,,,,1.727272727,18.5,14
+28,YOGSCAST Duncan,3,,,,1.818181818,5.5,10
+7,PointlessBlog,5,,,,1.826086957,20.44062049,1
+9,Sam,5,,,,1.826086957,22.37292569,2
+47,Sprinkleofglitter,5,,,,1.826086957,28.98423521,15
+23,YOGSCAST Lewis,3,,,,1.909090909,15.5,11
+11,Jim Chapman,5,,,,1.913043478,6.552886003,15
+17,TomSka,3,,,,1.913043478,81.66527778,8
+29,OfficialNerdCubed,3,,,,2,0,9
+33,SyndicateCentral,3,,,,2,0,9
+8,ThatcherJoe,5,,,,2,3.511417749,15
+27,YOGSCAST Sjin,4,,,,2,8.5,10
+45,Tanya Burr,5,,,,2,10.10337302,15
+18,charlieissocoollike,4,,,,2,10.95396825,5
+49,Fleur DeForce,5,,,,2.043478261,0.928571429,15
+6,Marcus Butler,5,,,,2.043478261,5.215151515,1
+10,AmazingPhil,5,,,,2.043478261,5.453571429,2
+16,JacksGap,5,,,,2.043478261,5.641071429,4
+25,Ali-A,3,,,,2.090909091,2.5,11
+38,AtheneWins,3,,,,2.090909091,2.5,11
+32,YOGSCAST Hannah,3,,,,2.090909091,5.5,10
+5,danisnotonfire,5,,,,2.173913043,1.301190476,2
+12,Alex Day,4,,,,2.217391304,1.666666667,5
+40,alfiegames,5,,,,2.434782609,0,15
+42,Sips,4,,,,2.454545455,0,10
+14,FunForLouis,6,,,,2.52173913,0,4
+22,Element Animation,6,,,,2.608695652,0,2
+48,beautycrush,6,,,,2.608695652,0.238095238,15
+41,stampylonghead,4,,,,2.636363636,0,10
+39,ChaBoyyHD,4,,,,2.636363636,0,14
+1,Vsauce,4,,,,2.695652174,42,8
+30,TotalBiscuit,4,,,,2.818181818,0,11
+21,Eddsworld,4,,,,2.869565217,0,8
+4,Numberphile,5,,,,3.565217391,22,8
+3,CGP Grey,6,,,,4.52173913,0,8
